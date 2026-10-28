@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "name": "Photon Featured",
+  "updated": "2026-10-27",
+  "items": [
+    {
+      "id": "prism-dusk",
+      "title": "Prism Dusk",
+      "url": "https://raw.githubusercontent.com/JohnssNoww001/Photon-Wallpapers/main/featured/prism-dusk.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/JohnssNoww001/Photon-Wallpapers/main/featured/prism-dusk-thumb.jpg",
+      "category": "Abstract",
+      "tags": [
+        "prism",
+        "light",
+        "rainbow",
+        "dark"
+      ],
+      "type": "image",
+      "credit": "Photon Wallpapers",
+      "creditUrl": "https://github.com/JohnssNoww001/Photon-Wallpapers",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "resolution": "3840x2160"
+    },
+    {
+      "id": "aurora-ribbons",
+      "title": "Aurora Ribbons",
+      "url": "https://raw.githubusercontent.com/JohnssNoww001/Photon-Wallpapers/main/featured/aurora-ribbons.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/JohnssNoww001/Photon-Wallpapers/main/featured/aurora-ribbons-thumb.jpg",
+      "category": "Abstract",
+      "tags": [
+        "aurora",
+        "waves",
+        "glow",
+        "night"
+      ],
+      "type": "image",
+      "credit": "Photon Wallpapers",
+      "creditUrl": "https://github.com/JohnssNoww001/Photon-Wallpapers",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "resolution": "3840x2160"
+    },
+    {
+      "id": "neon-horizon",
+      "title": "Neon Horizon",
+      "url": "https://raw.githubusercontent.com/JohnssNoww001/Photon-Wallpapers/main/featured/neon-horizon.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/JohnssNoww001/Photon-Wallpapers/main/featured/neon-horizon-thumb.jpg",
+      "category": "Retro",
+      "tags": [
+        "synthwave",
+        "sunset",
+        "neon",
+        "grid"
+      ],
+      "type": "image",
+      "credit": "Photon Wallpapers",
+      "creditUrl": "https://github.com/JohnssNoww001/Photon-Wallpapers",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "resolution": "3840x2160"
+    }
+  ]
+}
